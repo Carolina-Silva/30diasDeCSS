@@ -1,0 +1,62 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #901dfc;
+  /* background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%); 
+  
+  pontos para estudar box shadow e overflow hidden
+  transform
+  
+  */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+
+}
+a{
+  position: relative;
+  font-size: 28px;
+  margin: 0 28px;
+  width: 80px;
+  height: 80px;
+  background-color: #ccc;
+  display: inline-block;
+  border-radius: 24px;
+  /* box-shadow:6px 6px 12px rgba(241, 13, 13, 0.678),
+            -6px -6px -12px rgba(236, 233, 14, 0.849); */
+  overflow: hidden;  
+  transition: .3s linear; 
+}
+a:hover{
+  transform: scale(1.3);
+  border-radius: 50%;
+
+}
+
+a i{
+  color: #901dfc;
+  margin:25px 0;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  background-image: linear-gradient();
+
+}
+.fa-facebook-f:hover{
+  color: #3b5998;
+}
+.fa-twitter:hover{
+  color: #1da1f2;
+}
+.fa-instagram:hover{
+  color: #c32aa3;
+}
+.fa-youtube:hover{
+  color: #d71e18;
+}
+.fa-linkedin-in:hover{
+  color: #007bb5;
+}
