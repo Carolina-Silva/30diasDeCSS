@@ -20,3 +20,10 @@ Gostou da ideia?
 #### Espero que goste, e fica aí o desafio para vocês também!!!
 
 ## DIA 01
+https://user-images.githubusercontent.com/65463404/210281215-c3490faf-28d6-4fc2-9232-6ed986f65053.mp4
+
+## DIA 02
+https://user-images.githubusercontent.com/65463404/210281234-e1e1bd4d-c052-4394-b0eb-3ad0194ebe4a.mp4
+
+
+
