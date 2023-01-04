@@ -25,5 +25,11 @@ https://user-images.githubusercontent.com/65463404/210281215-c3490faf-28d6-4fc2-
 ## DIA 02
 https://user-images.githubusercontent.com/65463404/210281234-e1e1bd4d-c052-4394-b0eb-3ad0194ebe4a.mp4
 
+## DIA 03
+https://user-images.githubusercontent.com/65463404/210625185-abd2e0b4-1bbf-4bf9-9973-9a06c222d994.mp4
+
+## DIA 04
+https://user-images.githubusercontent.com/65463404/210625277-5be68b00-03a7-4a41-bea0-26f6bc23d80d.mp4
+
 
 
