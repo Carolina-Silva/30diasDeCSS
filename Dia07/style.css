@@ -1,0 +1,62 @@
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+body{
+  background: #f1f1f1;
+}
+.pagination{
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  transform: translateY(-50%);
+}
+.pagination a{
+  margin: 6px 1px;
+  display: inline-block;
+  width: 60px;
+  background: #0c1642;
+  height: 60px;
+  line-height: 60px;
+  color: #fff;
+  font-weight: bold;
+  transition: 0.3s;
+  position: relative;
+  padding-right: 26px;
+}
+.pagination a:hover{
+  color: #e66713;
+}
+.active{
+  color: #e66713 !important;
+}
+.prev, .next{
+  /* padding-right: 12px !important; */
+  /* font-size: 20px; */
+}
+.prev{
+  border-radius: 30px 0 0 30px;
+}
+.next{
+  border-radius:  0 30px 30px 0;
+}
+
+.pagination a::before, .pagination a::after{
+  content: '';
+  position: absolute;
+  border-top: 30px solid transparent;
+  border-bottom: 30px solid transparent;
+}
+.num::before, .next::before{
+  border-right:20px solid #0c1642 ;
+right: 100%;
+}
+.num::after, .prev::after{
+  border-right: 20px solid #f1f1f1 ;
+  right: 0;
+}
