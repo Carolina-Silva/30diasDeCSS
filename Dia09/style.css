@@ -1,0 +1,133 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  color: var(--color-black-regular);
+}
+html {
+  --color-primary-dark: #E35602;
+  --color-primary-regular: #F75C00;
+  --color-primary-ligth: #F37214;
+  --color-secondary-dark: #001634;
+  --color-secondary-regular: #001A3E;
+  --color-secondary-ligth: #00265C;
+  --color-tertiary-dark: #050505;
+  --color-tertiary-regular: #2ED9B8;
+  --color-tertiary-ligth: #67DBC5;
+  --color-white-dark: #F9F9F9;
+  --color-white-regular: #F7F6F5;
+  --color-white-ligth: #F4F0EB;
+  --color-black-dark: #151515;
+  --color-black-regular: #242424;
+  --color-error: #F13319;
+  --color-sucess: #BFFE58;
+  --color-warning: #F9D75F;
+}
+body{
+  min-height: 100vh;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+section{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+section.side{
+  background: url(back.png) no-repeat;
+  background-size: 100% 102%;
+}
+.side img{
+  max-width: 50%;
+}
+
+.login-container{
+  max-width: 450px;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.title{
+  text-transform: uppercase;
+  font-size: 3em;
+  font-weight: bold;
+  text-align: center;
+  
+}
+.separator{
+  width: 150px;
+  height: 4px;
+  background: var(--color-primary-regular);
+  margin: 24px;
+}
+.message{
+  text-align: center;
+  font-size: 1.1em;
+  line-height: 28px;
+  margin-bottom: 30px;
+  color: var(--color-secondary-ligth);
+}
+
+.login-form{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.form-box{
+  width: 100%;
+  position: relative;
+  margin-bottom: 24px;
+}
+input, button{
+  border: none;
+  outline: none;
+  border-radius: 30px;
+  font-size: 1.1em;
+}
+input{
+  width: 100%;
+  background: var(--color-white-dark);
+  color: var(--color-black-regular);
+  letter-spacing: 0.5px;
+  padding: 14px 64px ;
+}
+input ~ i{
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left:32px ;
+  color: var(--color-secondary-dark);
+  transition: color 0.4s;
+}
+input:focus ~ i{
+  color: var(--color-primary-regular);
+}
+button.submit{
+  color: var(--color-white-regular);
+  padding: 14px 64px ;
+  margin: 32px auto;
+  text-transform: uppercase;
+  font-weight: bold;
+  background-image: linear-gradient(to right, #E35602, #F37214);
+  cursor: pointer;
+  transition: opacity 0.4s;
+}
+button.submit:hover{
+  opacity: 0.9;
+}
+
+@media (max-width: 780px){
+   body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   }
+   .side{
+    display: none;
+   }
+}
+
