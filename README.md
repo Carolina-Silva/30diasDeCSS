@@ -49,6 +49,16 @@ https://user-images.githubusercontent.com/65463404/211582976-f5a45dbe-565b-4321-
 ## DIA 10
 https://user-images.githubusercontent.com/65463404/211583075-6078cfb6-bbde-4b2b-9557-e04d8b7717a5.mp4
 
+## DIA 11
+https://user-images.githubusercontent.com/65463404/212438071-8507008b-c0cb-49c5-87c3-c68d125c5546.mp4
+
+## DIA 12
+https://user-images.githubusercontent.com/65463404/212438085-5e573040-8c7e-4f87-b811-ad107fa8e5fc.mp4
+
+## DIA 13
+https://user-images.githubusercontent.com/65463404/212438104-d14533a8-d836-4faa-a6cb-3f9d3d50eb22.mp4
+
+
 
 
 
