@@ -58,6 +58,12 @@ https://user-images.githubusercontent.com/65463404/212438085-5e573040-8c7e-4f87-
 ## DIA 13
 https://user-images.githubusercontent.com/65463404/212438104-d14533a8-d836-4faa-a6cb-3f9d3d50eb22.mp4
 
+## DIA 14
+https://user-images.githubusercontent.com/65463404/212557103-83556bcb-3e53-4631-a7f9-638b113ad0b5.mp4
+
+## DIA 15
+https://user-images.githubusercontent.com/65463404/212557120-ec2ce4f2-987d-4e0f-86ab-fe239083d74a.mp4
+
 
 
 
