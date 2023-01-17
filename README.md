@@ -64,6 +64,10 @@ https://user-images.githubusercontent.com/65463404/212557103-83556bcb-3e53-4631-
 ## DIA 15
 https://user-images.githubusercontent.com/65463404/212557120-ec2ce4f2-987d-4e0f-86ab-fe239083d74a.mp4
 
+## DIA 16
+https://user-images.githubusercontent.com/65463404/212749089-3fbbf2df-b56b-4869-847b-cd18a5f34e97.mp4
+
+
 
 
 
