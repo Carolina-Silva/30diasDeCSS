@@ -1,0 +1,66 @@
+body{
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f1f1f1;
+}
+
+.share-btn{
+  background: linear-gradient(30deg, #074cdf, #22025e);
+  color: #f1f1f1;
+  font-family: 'Courier New', Courier, monospace;
+  border: none;
+  border-radius: 48px;
+  padding: 16px 40x;
+  font-size: 20px;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  transition: .3s;
+}
+.sm-btns{
+  position: absolute;
+  width: 100%;
+  left: 0;
+  display: flex;
+  justify-content: space-around;
+  bottom: 0;
+  transform: translateY(100%);
+
+}
+.sm-btns a{
+  color: #f1f1f1;
+  transition: .3s;
+
+}
+.share-btn:hover{
+
+}
+.text .icon{
+  display: inline-block;
+  transition: .3s;
+}
+
+.share-btn:hover .text,
+.share-btn:hover .icon,
+.share-btn:hover .sm-btns a{
+  transform: translateY(-40px);
+}
+.icon{
+  transition-delay: 60ms;
+}
+.share-btn a:nth-child(2){
+  transition-delay: 60ms;
+
+}
+.share-btn a:nth-child(3){
+  transition-delay: 120ms;
+
+}
+.sm-btns a:hover{
+  opacity: .7;
+
+}
