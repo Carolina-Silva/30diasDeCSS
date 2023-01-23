@@ -67,6 +67,25 @@ https://user-images.githubusercontent.com/65463404/212557120-ec2ce4f2-987d-4e0f-
 ## DIA 16
 https://user-images.githubusercontent.com/65463404/212749089-3fbbf2df-b56b-4869-847b-cd18a5f34e97.mp4
 
+## DIA 17
+https://user-images.githubusercontent.com/65463404/214163048-3ae8c6d6-7c25-4bc7-b949-c78911e62118.mp4
+
+## DIA 18
+https://user-images.githubusercontent.com/65463404/214162889-f1d6cd30-34b9-4b83-bde3-0d6f788e903f.mp4
+
+## DIA 19
+
+## DIA 20
+https://user-images.githubusercontent.com/65463404/214162822-ea80733d-cd9c-41d4-a754-0011fa516ce3.mp4
+
+## DIA 21
+https://user-images.githubusercontent.com/65463404/214162773-c970f919-6206-40b8-8ab1-59fe54aa8164.mp4
+
+## DIA 22
+https://user-images.githubusercontent.com/65463404/214162746-717529f4-1e65-4997-8776-1eaa481c8b8c.mp4
+
+## DIA 23
+https://user-images.githubusercontent.com/65463404/214162703-2ecbcdce-4b51-40b7-83b3-ade99ef45ade.mp4
 
 
 
