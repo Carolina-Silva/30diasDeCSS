@@ -1,0 +1,83 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    list-style: none;
+    padding: 0;
+}
+body{
+    background: #333;
+}
+.skills{
+    width: 500px;
+    margin: 60px auto;
+    color: #fff;
+}
+.skills li{
+    margin: 20px 0;
+}
+.bar{
+    background: #3b3a3a;
+    display: block;
+    height: 4px;
+    border:1px solid rgba(22, 22, 22, 0.3) ;
+    border-radius: 3px;
+    overflow: hidden;
+    box-shadow: 0 0 10px #813cdbb0;
+}
+.bar span{
+    height: 2px;
+    float: left;
+    background: #743cdb;
+}
+
+.html{
+    width: 98%;
+    animation: html 2s;
+}
+
+@keyframes html{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 98%;
+    }
+}
+
+.css{
+    width: 60%;
+    animation: css 2s;
+}
+@keyframes css{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 60%;
+    }
+}
+
+.jquery{
+    width: 40%;
+    animation: jquery 2s;
+}
+@keyframes jquery{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 40%;
+    }
+}
+
+.javascript{
+    width: 80%;
+    animation: javascript 2s;
+}
+@keyframes javascript{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 80%;
+    }
+}
