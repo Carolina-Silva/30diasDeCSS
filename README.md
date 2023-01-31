@@ -87,10 +87,22 @@ https://user-images.githubusercontent.com/65463404/214162746-717529f4-1e65-4997-
 ## DIA 23
 https://user-images.githubusercontent.com/65463404/214162703-2ecbcdce-4b51-40b7-83b3-ade99ef45ade.mp4
 
+## DIA 24
+![day24](https://user-images.githubusercontent.com/65463404/215893326-3ab1554a-219e-4cb0-8a2b-75f4c7d41146.jpg)
 
+## DIA 25
+https://user-images.githubusercontent.com/65463404/215893278-54729f4e-a4b0-4cb9-8b11-5e2c07afc436.mp4
 
+## DIA 26
+https://user-images.githubusercontent.com/65463404/215893082-85eea9cc-95a1-4b0b-a44e-b39838806cd6.mp4
 
+## DIA 27
+https://user-images.githubusercontent.com/65463404/215892940-3424c545-e807-462c-9620-aa585f7fb52b.mp4
 
+## DIA 28
+https://user-images.githubusercontent.com/65463404/215892892-196f9626-50c6-4486-9ba9-232ef2b224ae.mp4
 
+## DIA 29
+https://user-images.githubusercontent.com/65463404/215892883-dc29d46d-84cc-44ef-b033-a2045be56c28.mp4
 
-
+## DIA 30
